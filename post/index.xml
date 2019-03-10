@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ever3am</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on ever3am</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Mar 2019 16:14:07 +0800</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Org mode</title>
+      <link>/post/hello/</link>
+      <pubDate>Sun, 10 Mar 2019 16:14:07 +0800</pubDate>
+      
+      <guid>/post/hello/</guid>
+      <description>This is my first post.
+I wrote this blog using Emacs and Org mode.
+I&amp;rsquo;ve used vim for almost two years.
+When I first gave emacs a try maybe couple weeks ago, I was hook.
+So I decided to switch from vim to emacs instantly.
+Now I use it as my main IDE in daily work.
+Still in the process of learning to use emacs efficiently.
+Elisp, the language used for written emacs extensions, is way more powerful than vimscript.</description>
+    </item>
+    
+  </channel>
+</rss>
